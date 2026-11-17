@@ -34,15 +34,20 @@
 
 **Technologies:** Raspberry Pi 4B, Python, PiCamera2, Computer Vision, Image Processing, REST API, Google Apps Script.
 
+
 ## 🚀 Entrepreneurship
 
 ### Co-Founder – PrintMacha
 **3D Printing & Product Design Startup**
 
-- Co-founded PrintMacha, a startup focused on 3D printing and creative product development.
-- Work on 3D modelling, product design and prototyping.
+- Co-founded PrintMacha, a creative 3D printing and product design startup.
+- Work on 3D modelling, product design and rapid prototyping.
 - Contribute to brand development, marketing and product promotion.
-- Explore creative applications of 3D printing to develop useful products.
+- Explore creative ideas and transform concepts into physical products.
+
+**Instagram:** [@printmacha](https://www.instagram.com/printmacha/)
+
+**Website:** [PrintMacha](https://printmacha.com/)
 
 ## 🛠️ Technical Skills
 
