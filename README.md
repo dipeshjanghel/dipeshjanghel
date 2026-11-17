@@ -3,7 +3,7 @@
 <h3 align="center">ECE Engineering Student | Embedded Systems | Robotics | IoT</h3>
 
 <p align="center">
-  Building practical solutions through electronics, embedded systems, robotics and software.
+  Building practical solutions through electronics, robotics, embedded systems and software.
 </p>
 
 ---
@@ -13,10 +13,36 @@
 - 🎓 Electronics and Communication Engineering student at Ramaiah Institute of Technology, Bengaluru.
 - 🤖 Interested in Robotics, Embedded Systems, IoT and Computer Vision.
 - 🔧 Working with ESP32, STM32, Arduino and Raspberry Pi.
-- 💻 Programming with Python, C and C++.
+- 💻 Programming with Python, Embedded C and C++.
 - 🚀 Co-Founder of PrintMacha, a 3D printing and product design startup.
 - 🏆 First place in RoboSoccer and RoboRace at DSU Bengaluru.
-- 🌱 Always learning and building new things.
+- 🌱 Always learning, experimenting and building.
+
+## 💼 Professional Experience
+
+### Project Developer – LI2
+**Brahma3 | LSCI PRO | March 2026 – May 2026**
+
+**Project: Machine Vision Inspection System for Railway Components**
+
+- Worked on a machine vision inspection system for railway flanged components.
+- Developed image acquisition workflows using Raspberry Pi 4B and Pi NoIR Camera.
+- Used Python and PiCamera2 for camera configuration and image capture.
+- Worked on controlled illumination, camera positioning and image quality optimization.
+- Integrated remote image capture using REST APIs and ngrok.
+- Used Google Apps Script and Google Sheets for inspection record automation.
+
+**Technologies:** Raspberry Pi 4B, Python, PiCamera2, Computer Vision, Image Processing, REST API, Google Apps Script.
+
+## 🚀 Entrepreneurship
+
+### Co-Founder – PrintMacha
+**3D Printing & Product Design Startup**
+
+- Co-founded PrintMacha, a startup focused on 3D printing and creative product development.
+- Work on 3D modelling, product design and prototyping.
+- Contribute to brand development, marketing and product promotion.
+- Explore creative applications of 3D printing to develop useful products.
 
 ## 🛠️ Technical Skills
 
@@ -38,6 +64,7 @@
 - Image Processing
 - REST APIs
 - PCB Design Fundamentals
+- Signal Processing
 
 **Tools**
 - Git and GitHub
@@ -45,12 +72,12 @@
 - Ubuntu
 - Raspberry Pi OS
 
-## 🚀 Featured Projects
+## 🔬 Technical Projects
 
 | Project | Description |
 |---|---|
-| DHVANI | Adaptive Software-Defined Sonar Transmitter |
-| Disaster Response Drone | Multipurpose UAV concept for disaster response |
+| DHVANI | Adaptive Software-Defined Sonar Transmitter – SIH 2026 |
+| Disaster Response Drone | Multipurpose UAV concept for disaster response – SIH 2025 |
 | Bovine Mastitis Monitoring | IoT-based monitoring prototype |
 | Autonomous Industrial Robot | QR-based navigation using Raspberry Pi and OpenCV |
 | Fire Detection System | Raspberry Pi-based fire detection and protection prototype |
@@ -61,7 +88,7 @@
 - 🥇 1st Place – RoboRace, DSU Bengaluru
 - 🚀 Qualified for Smart India Hackathon
 - 🏅 Qualified for Vishwakarma Award prototype stage
-- 📚 IEEE–IISc PCB Design Workshop
+- 📚 Completed IEEE–IISc PCB Design Workshop
 
 ## 🤝 Connect With Me
 
